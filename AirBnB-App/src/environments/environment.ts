@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyDD-_1n4kk6Ep2f74lX84_5mAUvc4KuN5E',
+    apiKey: 'NotWhatYouareLokkingFor',
 
     authDomain: 'udemyairbnb.firebaseapp.com',
 
